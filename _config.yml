@@ -1,11 +1,11 @@
 # Site settings
 author: Zachary Farrell
-title: 
+title: Software Engineering
 header-img: img/home-bg.png
 email: zfarrell0507@gmail.com
 copyright_name: Zachary Farrell
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why I am studying Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  zfarrell0507
