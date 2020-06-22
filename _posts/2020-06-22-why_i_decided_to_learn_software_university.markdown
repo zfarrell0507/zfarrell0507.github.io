@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Why I decided to learn Software University"
-date:       2020-06-22 19:00:24 +0000
+title:      "Why I decided to learn Software"
+date:       2020-06-22 15:00:25 -0400
 permalink:  why_i_decided_to_learn_software_university
 ---
 
